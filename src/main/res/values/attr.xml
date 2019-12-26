@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="CommonProgressDialog">
+
+        <attr name="message" format="string"/>
+
+    </declare-styleable>
+</resources>
